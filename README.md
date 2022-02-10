@@ -8,4 +8,4 @@
 * Change the background color uses the scss method.
 
 # Hosted Project
-[Hosted Version of project](https://jasmint01.github.io/CSS-Frameworks/)
+[Homework: CSS Frameworks](https://jasmint01.github.io/CSS-Frameworks/)
